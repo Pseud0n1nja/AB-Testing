@@ -5,3 +5,8 @@ Welcome to the A/B Testing Repository! This repository is designed to provide a 
 ## Getting Started
 
 This section will guide you through the initial setup and basic usage of the repository. Follow these steps to get started with your first A/B test.
+
+```bash
+git clone https://github.com/yourusername/ab-testing.git
+cd ab-testing
+pip install -r requirements.txt
