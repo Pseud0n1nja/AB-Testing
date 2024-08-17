@@ -30,6 +30,7 @@ This case study delves into the application of Machine Learning for A/B Testing,
 
 **Outcome:** Improved user guidance during the enrollment process, leading to higher course completion rates and better alignment between student expectations and course demands.
 
+Traditional statistical approaches to A/B Testing, which rely on comparing only two variables (an experiment/control to an outcome), often fall short in capturing the complexities of customer behavior. Customers take different paths, spend varying amounts of time on sites, and come from diverse backgrounds. This is where Machine Learning excels, as it generates insights from complex systems and multifaceted customer journeys. By showcasing these two case studies, we aim to highlight the strengths and limitations of both approaches and demonstrate how Machine Learning can provide a more nuanced understanding of customer behavior.
 
 ## Getting Started
 
