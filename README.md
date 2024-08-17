@@ -6,6 +6,31 @@ With the rise of digital marketing powered by tools like Google Analytics, Googl
 
 A/B Testing enables us to determine whether changes in landing pages, popup forms, article titles, and other digital marketing elements improve conversion rates and ultimately enhance customer purchasing behavior. A successful A/B Testing strategy can lead to massive gains: more satisfied users, increased engagement, and higher sales - a win-win-win for businesses.
 
+
+### Case Study 1: Traditional A/B Testing Using Statistical Methods
+
+This case study explores the traditional approach to A/B testing using statistical inference methods such as z-scores and t-tests. The focus is on testing variations in website color schemes to determine which variation leads to higher user engagement.
+
+#### Experiment Details:
+- **Objective:** To determine the impact of different website color schemes on user engagement.
+- **Methodology:** Traditional statistical A/B testing methods (e.g., z-score, t-test).
+- **Outcome:** Identifying the most effective color scheme for improving user engagement.
+
+### Case Study 2: A/B Testing Using Machine Learning for Enrollments/Course Completion
+
+This case study delves into the application of Machine Learning for A/B Testing, specifically to increase course enrollments. The experiment is conducted by MOOC, a website dedicated to online teaching, with the overall business goal of maximizing course completion by students.
+
+#### Experiment Name: "Free Trial" Popup
+
+**Objective:** To maximize course completion by guiding students based on their weekly time commitment.
+
+**Methodology:** 
+- **Traditional Approach:** Students were taken through the checkout process based on their indicated weekly time commitment.
+- **Machine Learning Approach:** Implemented advanced algorithms (Linear Regression, Decision Trees, XGBoost) to enhance the effectiveness of the screener and improve the enrollment process.
+
+**Outcome:** Improved user guidance during the enrollment process, leading to higher course completion rates and better alignment between student expectations and course demands.
+
+
 ## Getting Started
 
 This section will guide you through the initial setup and basic usage of the repository. Follow these steps to get started with your first A/B test.
