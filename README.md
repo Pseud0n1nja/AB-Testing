@@ -41,3 +41,16 @@ git clone https://github.com/yourusername/ab-testing.git
 cd ab-testing
 pip install -r requirements.txt
 
+ml-ab-testing/
+├── data/
+│   ├── control_data.csv
+│   ├── experiment_data.csv
+├── notebooks/
+│   ├── AB-testing-for-Enrollments-using-Advanced-Machine-Learning(AutoML).ipynb
+├── src/
+│   ├── data_preprocessing.py
+│   ├── ml_models.py
+│   ├── analysis.py
+├── README.md
+├── requirements.txt
+└── setup.py
